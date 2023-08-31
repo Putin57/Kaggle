@@ -1,2 +1,3 @@
-# Task_force_313
+# Mission ML contest
+ML practice session
 some task for Machine Learning contest...
